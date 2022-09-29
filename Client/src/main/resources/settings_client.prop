@@ -1,0 +1,4 @@
+PORT=4444
+START_MESSAGE_NEW_CLIENT=Стартовое сообщение
+EXIT_MESSAGE=/exit
+SERVER_NAME=localhost

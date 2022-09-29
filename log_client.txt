@@ -1,0 +1,16 @@
+
+1. [Thu Sep 29 12:38:53 MSK 2022] Клинет запущен!
+2. [Thu Sep 29 12:38:53 MSK 2022] Прочитаны настройки из файла "Client/src/main/resources/settings_client.prop"
+3. [Thu Sep 29 12:38:53 MSK 2022] [java.base/sun.nio.ch.Net.connect0(Native Method), java.base/sun.nio.ch.Net.connect(Net.java:579), java.base/sun.nio.ch.Net.connect(Net.java:568), java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:588), java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327), java.base/java.net.Socket.connect(Socket.java:633), java.base/java.net.Socket.connect(Socket.java:583), java.base/java.net.Socket.<init>(Socket.java:507), java.base/java.net.Socket.<init>(Socket.java:287), ru.osipov.Client.<init>(Client.java:18), ru.osipov.MainClient.main(MainClient.java:6)] Connection refused: connect
+4. [Thu Sep 29 12:38:53 MSK 2022] Клиентское приложение остановлено!
+
+1. [Thu Sep 29 12:39:11 MSK 2022] Клинет запущен!
+2. [Thu Sep 29 12:39:11 MSK 2022] Прочитаны настройки из файла "Client/src/main/resources/settings_client.prop"
+3. [Thu Sep 29 12:39:11 MSK 2022] К серверу подключен Socket[addr=localhost/127.0.0.1,port=4444,localport=65006]
+4. [Thu Sep 29 12:39:17 MSK 2022] {Server} "User1" вошел в чат
+5. [Thu Sep 29 12:39:40 MSK 2022] {User1} Всем привет!
+6. [Thu Sep 29 12:40:03 MSK 2022] {User1} Меня зовут Авдотий.
+7. [Thu Sep 29 12:40:14 MSK 2022] {User1} У меня есть собака. И ее зовут Мняка.
+8. [Thu Sep 29 12:40:22 MSK 2022] Клиентское приложение остановлено!
+9. [Thu Sep 29 12:40:22 MSK 2022] {Server} "User1" покинул чат
+10. [Thu Sep 29 12:40:22 MSK 2022] Принятие входящих сообщений от сервера прекращено

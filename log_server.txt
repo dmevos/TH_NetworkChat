@@ -1,0 +1,19 @@
+
+1. [Thu Sep 29 12:35:30 MSK 2022] Прочитаны настройки из файла "Server/src/main/resources/settings_server.prop"
+2. [Thu Sep 29 12:35:30 MSK 2022] Сервер запущен!
+
+1. [Thu Sep 29 12:35:40 MSK 2022] Прочитаны настройки из файла "Server/src/main/resources/settings_server.prop"
+2. [Thu Sep 29 12:35:40 MSK 2022] Сервер запущен!
+
+1. [Thu Sep 29 12:36:49 MSK 2022] Прочитаны настройки из файла "Server/src/main/resources/settings_server.prop"
+2. [Thu Sep 29 12:36:49 MSK 2022] Сервер запущен!
+
+1. [Thu Sep 29 12:39:05 MSK 2022] Прочитаны настройки из файла "Server/src/main/resources/settings_server.prop"
+2. [Thu Sep 29 12:39:05 MSK 2022] Сервер запущен!
+3. [Thu Sep 29 12:39:11 MSK 2022] Клиент 1 подключен: Socket[addr=/127.0.0.1,port=65006,localport=4444]
+4. [Thu Sep 29 12:39:17 MSK 2022] Юзер "User1" вошел в чат
+5. [Thu Sep 29 12:39:40 MSK 2022] {User1} Всем привет!
+6. [Thu Sep 29 12:40:03 MSK 2022] {User1} Меня зовут Авдотий.
+7. [Thu Sep 29 12:40:14 MSK 2022] {User1} У меня есть собака. И ее зовут Мняка.
+8. [Thu Sep 29 12:40:22 MSK 2022] Юзер "User1" покинул чат
+9. [Thu Sep 29 12:40:22 MSK 2022] Клиент 1 отключен: Socket[addr=/127.0.0.1,port=65006,localport=4444]
